@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<!--this is the comment tag. Jalila Williams-->
+<html>
+<head>
+<title>All about me</title>
+<style type="font-family:verdana;background-color:Violet;text-align:center;">
+body {font-family:verdana;background-color:Violet;text-align:center;}
+h1 {font-family:verdana;background-color:Violet;text-align:center;}
+p{font-family:verdana;}
+a:link   {color:#800080;}
+a:visited {color:#FF00FF;}
+a:hover   {color:#00FFFF;}
+a:active {color:#00FF00;}
+</style>
+</head>
+<body>
+<h1 style="font-family:verdana;background-color:Violet;text-align:center;">All about Jalila....</hl>
+<hr>
+<p1 style="font-family:verdana;background-color:Violet;text-align:centered;">My name is Jalila Williams. My birthday is August 5th and I am 17 years old. My favorite color is black. I am currently a senior in high school. When I graduate I'm going to move back to Atlanta and start my clothing business. I'll also begin to trade foriegn currency and invest in the stock market. I want Ms. Hinton (my favorite teacher) to teach me about the stock market because she's currently invested in it. I also plan on joining the real estate business and renting out several homes in multiple states. In conclusion, I'm going to be VERY successful.</p>
+<h1>My Favorite Web Sites:</h1>
+<ol>
+<li><button style="font-family:verdana;background-color:Violet;text-align:center;" onclick="window.location.href = 'https://jalilafashionproje.wixsite.com/jalila-williams';">Jalila's Fashion Project</button></li>
+<li><button style="font-family:verdana;background-color:Violet;text-align:center;" onclick="window.location.href = 'https://www.prettylittlething.us/';">Pretty Little Thing</button></li>
+<li><button style="font-family:verdana;background-color:Violet;text-align:center;" onclick="window.location.href = 'https://www.atulipboutique.bigcartel.com/';">Atulip Boutique</button></li>
+</ol>
+<h1>Photo</h1>
+<img src="https://pbs.twimg.com/profile_images/1165114974588588032/sacFpoB4_400x400.jpg" alt="Jalila Williams"><img src="https://pbs.twimg.com/profile_images/825156424682635266/qJza0h9p_400x400.jpg" alt="Jalila Williams"><br><img src="https://i.pinimg.com/originals/10/a3/33/10a33352386539989db7207202b1b169.jpg" alt="Jalila Williams">
+<br>
+<h1>My Animation Project</h1>
+<iframe src="https://giphy.com/embed/J19mzbW0LtME2dTz8W" width="1280" height="1070" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/J19mzbW0LtME2dTz8W"></a></p>
+<h1>Contact me</h1>
+<a style="font-family:verdana;background-color:Violet;text-align:center;" href="mailto:jalila.amatullahwilliams@gmail.com">Send me an email</a>
+</body>
+</html>
